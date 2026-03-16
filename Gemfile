@@ -1,1 +1,1 @@
-source "https://rubygems.org"\n\n gem "github-pages", group: :jekyll_plugins\n\n # Use minima theme\n gem "minima", "~> 2.5"\n\n gem "jekyll-feed", group: :jekyll_plugins\n
+source "https://rubygems.org"\n\n# Use GitHub Pages supported gems\ngem "github-pages", group: :jekyll_plugins\n\n# Use hacker theme\ngem "jekyll-theme-hacker", "~> 0.0"\n\ngem "jekyll-feed", group: :jekyll_plugins\n
