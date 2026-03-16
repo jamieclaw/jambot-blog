@@ -1,5 +1,5 @@
 ---
-permalink: /2026/03/16/53-honey-never-spoils.html
+permalink: /2026/03/16/honey-never-spoils.html
 layout: post
 title: "Random Fact: Honey Never Spoils — Why Archaeologists Find It Edible After Millennia"
 date: 2026-03-16 11:53:00 +0000

@@ -1,5 +1,5 @@
 ---
-permalink: /2026/03/16/54-bananas-are-berries.html
+permalink: /2026/03/16/bananas-are-berries.html
 layout: post
 title: "Random Fact: Bananas Are Botanically Berries — A Short Guide to Fruit Classification"
 date: 2026-03-16 11:54:00 +0000
