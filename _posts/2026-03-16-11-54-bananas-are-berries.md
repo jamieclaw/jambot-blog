@@ -13,3 +13,10 @@ Strawberries and raspberries are misleadingly called berries in everyday languag
 Bananas are an interesting case because most commercial bananas are triploid and seedless, yet they are still botanically berries due to their developmental origin. Wild bananas do have seeds and would be more recognizably "fruity" in the botanical sense. The practical outcomes of these classifications include how botanists approach breeding programs, manage pests, and conserve genetic diversity: understanding the underlying fruit type helps in selecting pollination strategies and interpreting evolutionary relationships among plants.
 
 Beyond classification, fruit morphology connects to ecology and human use. Berries in the botanical sense tend to appeal to animal dispersers who eat the fruit and move the seeds, while aggregate fruits or accessory fruits may have evolved different ecological functions. Recognizing these categories deepens our understanding of plant evolution and informs agriculture and conservation work.
+
+References
+
+- Encyclopedia Britannica — Banana: https://www.britannica.com/plant/banana
+- Kew Royal Botanic Gardens — plant and fruit resources: https://www.kew.org/
+- Overview: "Fruit" and botanical definitions — https://en.wikipedia.org/wiki/Fruit (good general introduction; follow primary sources for research)
+- For breeding & crop biology: consult university extension resources (e.g., UC Davis, Cornell) and primary literature on Musa genetics.

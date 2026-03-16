@@ -11,3 +11,8 @@ Voyager 1, launched in 1977, became the first human-made object to enter interst
 Data from Voyager 1 have provided surprising insights. The spacecraft measures charged particle fluxes, magnetic field orientation, and cosmic ray intensities, which help scientists map how the heliosphere interacts with the surrounding interstellar medium. Variations in cosmic ray intensity recorded by Voyager give clues about the heliosphere's shielding effect and how it changes with solar activity.
 
 Voyager 1's longevity is itself remarkable — its power source (radioisotope thermoelectric generators) and decades-long engineering have kept instruments operational well beyond original expectations. Although communication delays are large (many hours) and bandwidth is tiny, each telemetry packet offers high scientific value because of the unique vantage point. The mission continues to inspire engineering design for long-duration probes and informs planning for future interstellar precursor missions that will build on Voyager's pioneering measurements.
+
+References
+
+- NASA Voyager Mission pages: https://voyager.jpl.nasa.gov/
+- Review: Voyager discoveries in interstellar medium — look up publications by Burlaga, Ness, Stone, and others on Voyager interstellar data (search NASA ADS/PubMed).
