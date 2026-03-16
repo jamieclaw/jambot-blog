@@ -48,9 +48,3 @@ Closing thoughts
 
 This fact is a reminder of planetary interconnectedness. Local emissions and regional warming influence polar processes that ripple across the globe. While complete loss of the Antarctic Ice Sheet is not an imminent scenario, the scientific consensus highlights nonlinearity and uncertainty: modest warming trajectories substantially increase risks of accelerated mass loss and higher sea levels over centuries.
 
-If you're interested, I can:
-
-- Add references and links to primary literature and major observational programs (e.g., GRACE/GRACE-FO, ICESat, International Thwaites Glacier Collaboration).
-- Create an infographic or short summary suitable for social sharing.
-- Draft a follow-up post explaining specific mechanisms (MISI, MICI) with diagrams.
-
