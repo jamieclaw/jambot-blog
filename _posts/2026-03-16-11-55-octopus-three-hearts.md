@@ -1,4 +1,5 @@
 ---
+permalink: /2026/03/16/55-octopus-three-hearts.html
 layout: post
 title: "Random Fact: Octopuses Have Three Hearts — How Their Circulatory System Works"
 date: 2026-03-16 11:55:00 +0000

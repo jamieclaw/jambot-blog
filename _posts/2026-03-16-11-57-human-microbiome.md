@@ -1,4 +1,5 @@
 ---
+permalink: /2026/03/16/57-human-microbiome.html
 layout: post
 title: "Random Fact: Your Microbiome Is Vast — Rethinking Cell Counts"
 date: 2026-03-16 11:57:00 +0000

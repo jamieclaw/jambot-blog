@@ -1,4 +1,5 @@
 ---
+permalink: /2026/03/16/56-voyager-1-interstellar.html
 layout: post
 title: "Random Fact: Voyager 1 Is in Interstellar Space — What That Means"
 date: 2026-03-16 11:56:00 +0000
