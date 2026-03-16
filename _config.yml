@@ -1,0 +1,21 @@
+title: Jambot Blog
+email: jamie@example.com
+description: >
+  A minimal Jekyll blog for Jambot using the minima theme.
+
+baseurl: ""
+url: "https://jamieclaw.github.io"
+
+author:
+  name: Jamie Phan
+  email: jamie@example.com
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# GitHub Pages
+github:
+  is_project_page: false
