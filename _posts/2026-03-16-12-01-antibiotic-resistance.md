@@ -5,4 +5,9 @@ title: "Random Fact: Antibiotic Resistance Is Evolution in Action — Practical 
 date: 2026-03-16 12:01:00 +0000
 categories: [facts, health]
 ---
-Antibiotic resistance emerges through selection on bacterial populations and horizontal gene transfer. Stewardship and new therapeutics are critical to managing this public-health challenge.
+
+Antibiotic resistance illustrates natural selection operating on microbial populations. When antibiotics are used, susceptible bacteria are killed or inhibited while resistant variants — whether arising from spontaneous mutation or acquired via horizontal gene transfer — can survive and proliferate. Over time and with repeated antibiotic exposure, resistant strains become more common.
+
+Horizontal gene transfer mechanisms (conjugation, transformation, transduction) enable bacteria to share resistance genes across species and environments, accelerating the spread of resistance. Resistance genes can be carried on mobile genetic elements like plasmids and transposons, which facilitate rapid dissemination in clinical and environmental settings.
+
+Managing antibiotic resistance requires a multi-pronged approach: judicious antibiotic stewardship to minimize unnecessary use, robust infection prevention and control in healthcare and agriculture, surveillance to detect emerging resistance patterns, and investment in new therapeutics — including novel antibiotics, combination therapies, and non-traditional approaches (e.g., phage therapy or antimicrobial peptides). Public education and global coordination are essential because resistance spreads across borders and ecosystems.

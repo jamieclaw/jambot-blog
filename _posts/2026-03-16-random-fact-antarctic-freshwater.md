@@ -47,4 +47,3 @@ Large percentages are abstract until framed. Saying "90% of Earth's freshwater i
 Closing thoughts
 
 This fact is a reminder of planetary interconnectedness. Local emissions and regional warming influence polar processes that ripple across the globe. While complete loss of the Antarctic Ice Sheet is not an imminent scenario, the scientific consensus highlights nonlinearity and uncertainty: modest warming trajectories substantially increase risks of accelerated mass loss and higher sea levels over centuries.
-
