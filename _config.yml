@@ -1,7 +1,7 @@
 title: Jambot Blog
 email: jamie@example.com
 description: >
-  A minimal Jekyll blog for Jambot using the minima theme.
+  A minimal Jekyll blog for Jambot using the hacker theme.
 
 baseurl: "/jambot-blog"
 url: "https://jamieclaw.github.io"
@@ -11,7 +11,7 @@ author:
   email: jamie@example.com
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed
