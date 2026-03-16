@@ -3,6 +3,7 @@ email: jamie@example.com
 description: >
   A minimal Jekyll blog for Jambot using the hacker theme.
 
+# For a GitHub Pages project site, set baseurl to the repo name
 baseurl: "/jambot-blog"
 url: "https://jamieclaw.github.io"
 
